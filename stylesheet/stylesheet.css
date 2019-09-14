@@ -1,0 +1,22 @@
+body {
+	background-color: black;
+} 
+
+ h1 {
+  	color: #00d12d;
+  	text-align: left;
+  }
+
+p {
+  font-size: 20px;
+}
+
+
+
+ul li {
+	color: #00d12d;	
+}
+
+table {
+	color: #00d12d;	
+}
